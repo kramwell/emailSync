@@ -22,3 +22,4 @@ Example logfile output
 	[16/01/22 13:19:24] Sending email...
 	[16/01/22 13:19:24] Email sent!
 
+![Screenshot](emailSync-screenshot.png)
